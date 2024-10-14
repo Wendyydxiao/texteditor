@@ -12,9 +12,9 @@ Screenshot(s): <br><br>
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [License](#license)
 - [Questions](#questions)
 
 ## Installation
