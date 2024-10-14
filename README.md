@@ -4,8 +4,9 @@
 
 Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) that functions as a text editor, capable of working both online and offline. This application meets the PWA criteria and utilizes various data persistence techniques, including IndexedDB, ensuring that users' content is reliably stored even when no network connection is available. J.A.T.E is a single-page application that is also installable as a desktop application.
 
-Live page link: TBP
+Live page link: https://texteditor-zz7z.onrender.com <br><br>
 Screenshot(s) :
+<img src="/Assets/JATE.png" width="350" title="page screenshot">
 
 ## Table of Contents
 
